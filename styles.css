@@ -9,15 +9,15 @@ h1 {
     align-items: center;
     justify-content: flex-start;
     text-align: justify;
-    margin-left: 20%;
-    margin-right: 20%;
+    margin-left: 5%;
+    margin-right: 5%;
     line-height: 1.6;
 }
 .images-container {
     display: flex; /* Added to ensure alignment settings take effect */
     justify-content: center; /* Centers the image horizontally */
-    margin-left: 10%;
-    margin-right: 10%;
+    margin-left: 5%;
+    margin-right: 5%;
 }
 .image-item img {
     height: auto;
